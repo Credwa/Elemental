@@ -1,0 +1,10 @@
+Elemental v0.1
+Ionic Bonds supported
+Covalent bonds unsupported
+metal alloys unsupported
+
+Known bugs 
+
+-Clicking another metal doesnt reset last metal possible highlights.
+
+-Clicking a non-metal removes highlight
